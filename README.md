@@ -1,6 +1,6 @@
 # Yes-Bank-Stock-Price-Prediction
 
-<img style="width: 80%; height: 200px;" src="[https://i.ibb.co/jbky2CX/dataset-cover.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Yes_Bank_SVG_Logo.svg/2560px-Yes_Bank_SVG_Logo.svg.png)">
+<img style="width: 60%; height: 200px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjHBmcdZZtBlBHpSFoZyQGqM-VhMvpBaGCg&usqp=CAU">
 
 # 📖PROBLEM STATEMENT
 
